@@ -4,10 +4,7 @@ type: slides
 
 # Introduction
 
-- This section will walk you through how to install R and RStudio both on Windows machines and on Macs
-- Note that you will need to download and install both pieces of software!
-
-Notes: R is the underlying programming language that is being used, when I'm talking about installing R, I mean installing the software that can turn the programming language into some useful output. You don't need RStudio to run R code, however it does make things easier! RStudio is essentially a user interface, which makes programming in R a bit easier.
+Notes: This section will walk you through how to install R and RStudio both on Windows machines and on Macs. Note that you will need to download and install both pieces of software! R is the underlying programming language that is being used, when I'm talking about installing R, I mean installing the software that can turn the programming language into some useful output. You don't need RStudio to run R code, however it does make things easier! RStudio is essentially a user interface, which makes programming in R a bit easier.
 
 ---
 
@@ -72,7 +69,7 @@ RStudio can be downloaded from [rstudio.com](rstudio.com).
 
 2 click the download button underneath RStudio Desktop:
 
-<img src="downloadrstudio.jpg" width="75%">
+<img src="downloadrstudio.jpg" width="60%">
 
 3. your system type will be automatically detected and you can just click the blue button to download the relevant installer 
 
@@ -84,4 +81,6 @@ notes: If at step 3, your operating system hasn't been correctly detected, other
 
 # Step 3: Run RStudio for the first time
 
-Once you have completed the steps above, you will be able to open and run RStudio. We'll look at the interface in the next section
+notes: Once you have completed the steps above, you will be able to open and run RStudio. We'll look at the interface in the next section
+
+---
