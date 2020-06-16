@@ -69,3 +69,5 @@ There are a lot of packages that are installed with R, but to reduce the time it
 This is where any help files/R Documentation will appear. To obtain the help file for a particular R function type `?function` into the console, where function can be replaced with the name of any R function that you require help with.
 
 ---
+
+# Time to summarise
