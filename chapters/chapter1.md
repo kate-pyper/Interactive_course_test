@@ -17,6 +17,15 @@ id: 1
 
 <exercise id="2" title="The RStudio Interface">
 
+
+<slides source="chapter1_02_Interface">
+</slides>
+
+
+</exercise>
+
+<exercise id="3" title="The RStudio Interface: What have you learned?">
+
 Let's ask some questions about the slides. Whats the correct answer?
 
 <choice>
