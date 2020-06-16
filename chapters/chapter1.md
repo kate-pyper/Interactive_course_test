@@ -1,5 +1,5 @@
 ---
-title: 'Chapter 1: Getting started'
+title: '1. Getting Started with R & RStudio'
 description:
   'This chapter will teach you how to install R and RStudio, and introduce you to the RStudio IDE.'
 prev: null
