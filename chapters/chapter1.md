@@ -15,12 +15,10 @@ id: 1
 
 </exercise>
 
-<exercise id="2" title="The RStudio Interface">
-
+<exercise id="2" title="The RStudio Interface" type="slides">
 
 <slides source="chapter1_02_Interface">
 </slides>
-
 
 </exercise>
 
