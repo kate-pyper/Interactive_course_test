@@ -4,14 +4,18 @@ type: slides
 
 # The RStudio Interface
 
-<img src="RStudioPanels.jpg" width="100%">
+---
+
+# The RStudio Interface
+
+<img src="RStudioPanels.jpg" width="75%">
 
 Notes: The first time you open RStudio, you will see a window which has three panels as shown. Each of these panels has different purpose and these will be described throughout this section.
 ---
 
 # Section 1: The Console
 
-<img src="Console.jpg" width="100%">
+<img src="Console.jpg" width="75%">
 
 Notes: This is where commands and text output will appear when they are run. Commands can be typed directly into the console after the prompt symbol `>`. To run a command, hit Enter after typing it. Commands can also be run from a script (This is recommended).
 
@@ -21,9 +25,7 @@ If your console is showing a `+` on the left hand side then this is likely due t
 
 # Section 2: The Environment
 
-## Windows
-
-<img src="Environment.jpg" width="100%">
+<img src="Environment.jpg" width="75%">
 
 Notes: The environment panel has multiple tabs, but we'll focus on the Environment tab and the history tab.
 
@@ -39,7 +41,7 @@ The history is similar to the environment, but it stores r commands which have b
 
 # Section 3: Files
 
-<img src="Files.jpg" width="100%">
+<img src="Files.jpg" width="75%">
 
 Notes: This panel has multiple tabs. We will focus on the Files, Plots, Packages and Help tabs. The Viewer tab is used for more advanced features
 
@@ -66,3 +68,4 @@ There are a lot of packages that are installed with R, but to reduce the time it
 
 This is where any help files/R Documentation will appear. To obtain the help file for a particular R function type `?function` into the console, where function can be replaced with the name of any R function that you require help with.
 
+---
