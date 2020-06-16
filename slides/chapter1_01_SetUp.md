@@ -83,4 +83,3 @@ notes: If at step 3, your operating system hasn't been correctly detected, other
 
 notes: Once you have completed the steps above, you will be able to open and run RStudio. We'll look at the interface in the next section
 
----
