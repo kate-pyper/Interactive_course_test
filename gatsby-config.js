@@ -2,6 +2,7 @@ const meta = require('./meta.json')
 const autoprefixer = require('autoprefixer')
 
 module.exports = {
+    pathPrefix: "/test-course",
     siteMetadata: meta,
     plugins: [
         {
